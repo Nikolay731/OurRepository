@@ -1,0 +1,956 @@
+fileFormatVersion: 2
+guid: 71aca0b20d0dd254eb0218fe3f2d98e0
+timeCreated: 1483189316
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: female_Lo
+    100002: FemaleBaseMesh:Head
+    100004: FemaleBaseMesh:HeadTop_End
+    100006: FemaleBaseMesh:Hips
+    100008: FemaleBaseMesh:LeftArm
+    100010: FemaleBaseMesh:LeftFoot
+    100012: FemaleBaseMesh:LeftForeArm
+    100014: FemaleBaseMesh:LeftHand
+    100016: FemaleBaseMesh:LeftHandIndex1
+    100018: FemaleBaseMesh:LeftHandIndex2
+    100020: FemaleBaseMesh:LeftHandIndex3
+    100022: FemaleBaseMesh:LeftHandIndex4
+    100024: FemaleBaseMesh:LeftHandMiddle1
+    100026: FemaleBaseMesh:LeftHandMiddle2
+    100028: FemaleBaseMesh:LeftHandMiddle3
+    100030: FemaleBaseMesh:LeftHandMiddle4
+    100032: FemaleBaseMesh:LeftHandPinky1
+    100034: FemaleBaseMesh:LeftHandPinky2
+    100036: FemaleBaseMesh:LeftHandPinky3
+    100038: FemaleBaseMesh:LeftHandPinky4
+    100040: FemaleBaseMesh:LeftHandRing1
+    100042: FemaleBaseMesh:LeftHandRing2
+    100044: FemaleBaseMesh:LeftHandRing3
+    100046: FemaleBaseMesh:LeftHandRing4
+    100048: FemaleBaseMesh:LeftHandThumb1
+    100050: FemaleBaseMesh:LeftHandThumb2
+    100052: FemaleBaseMesh:LeftHandThumb3
+    100054: FemaleBaseMesh:LeftHandThumb4
+    100056: FemaleBaseMesh:LeftLeg
+    100058: FemaleBaseMesh:LeftShoulder
+    100060: FemaleBaseMesh:LeftToe_End
+    100062: FemaleBaseMesh:LeftToeBase
+    100064: FemaleBaseMesh:LeftUpLeg
+    100066: FemaleBaseMesh:Neck
+    100068: FemaleBaseMesh:RightArm
+    100070: FemaleBaseMesh:RightFoot
+    100072: FemaleBaseMesh:RightForeArm
+    100074: FemaleBaseMesh:RightHand
+    100076: FemaleBaseMesh:RightHandIndex1
+    100078: FemaleBaseMesh:RightHandIndex2
+    100080: FemaleBaseMesh:RightHandIndex3
+    100082: FemaleBaseMesh:RightHandIndex4
+    100084: FemaleBaseMesh:RightHandMiddle1
+    100086: FemaleBaseMesh:RightHandMiddle2
+    100088: FemaleBaseMesh:RightHandMiddle3
+    100090: FemaleBaseMesh:RightHandMiddle4
+    100092: FemaleBaseMesh:RightHandPinky1
+    100094: FemaleBaseMesh:RightHandPinky2
+    100096: FemaleBaseMesh:RightHandPinky3
+    100098: FemaleBaseMesh:RightHandPinky4
+    100100: FemaleBaseMesh:RightHandRing1
+    100102: FemaleBaseMesh:RightHandRing2
+    100104: FemaleBaseMesh:RightHandRing3
+    100106: FemaleBaseMesh:RightHandRing4
+    100108: FemaleBaseMesh:RightHandThumb1
+    100110: FemaleBaseMesh:RightHandThumb2
+    100112: FemaleBaseMesh:RightHandThumb3
+    100114: FemaleBaseMesh:RightHandThumb4
+    100116: FemaleBaseMesh:RightLeg
+    100118: FemaleBaseMesh:RightShoulder
+    100120: FemaleBaseMesh:RightToe_End
+    100122: FemaleBaseMesh:RightToeBase
+    100124: FemaleBaseMesh:RightUpLeg
+    100126: FemaleBaseMesh:Spine
+    100128: FemaleBaseMesh:Spine1
+    100130: FemaleBaseMesh:Spine2
+    100132: //RootNode
+    400000: female_Lo
+    400002: FemaleBaseMesh:Head
+    400004: FemaleBaseMesh:HeadTop_End
+    400006: FemaleBaseMesh:Hips
+    400008: FemaleBaseMesh:LeftArm
+    400010: FemaleBaseMesh:LeftFoot
+    400012: FemaleBaseMesh:LeftForeArm
+    400014: FemaleBaseMesh:LeftHand
+    400016: FemaleBaseMesh:LeftHandIndex1
+    400018: FemaleBaseMesh:LeftHandIndex2
+    400020: FemaleBaseMesh:LeftHandIndex3
+    400022: FemaleBaseMesh:LeftHandIndex4
+    400024: FemaleBaseMesh:LeftHandMiddle1
+    400026: FemaleBaseMesh:LeftHandMiddle2
+    400028: FemaleBaseMesh:LeftHandMiddle3
+    400030: FemaleBaseMesh:LeftHandMiddle4
+    400032: FemaleBaseMesh:LeftHandPinky1
+    400034: FemaleBaseMesh:LeftHandPinky2
+    400036: FemaleBaseMesh:LeftHandPinky3
+    400038: FemaleBaseMesh:LeftHandPinky4
+    400040: FemaleBaseMesh:LeftHandRing1
+    400042: FemaleBaseMesh:LeftHandRing2
+    400044: FemaleBaseMesh:LeftHandRing3
+    400046: FemaleBaseMesh:LeftHandRing4
+    400048: FemaleBaseMesh:LeftHandThumb1
+    400050: FemaleBaseMesh:LeftHandThumb2
+    400052: FemaleBaseMesh:LeftHandThumb3
+    400054: FemaleBaseMesh:LeftHandThumb4
+    400056: FemaleBaseMesh:LeftLeg
+    400058: FemaleBaseMesh:LeftShoulder
+    400060: FemaleBaseMesh:LeftToe_End
+    400062: FemaleBaseMesh:LeftToeBase
+    400064: FemaleBaseMesh:LeftUpLeg
+    400066: FemaleBaseMesh:Neck
+    400068: FemaleBaseMesh:RightArm
+    400070: FemaleBaseMesh:RightFoot
+    400072: FemaleBaseMesh:RightForeArm
+    400074: FemaleBaseMesh:RightHand
+    400076: FemaleBaseMesh:RightHandIndex1
+    400078: FemaleBaseMesh:RightHandIndex2
+    400080: FemaleBaseMesh:RightHandIndex3
+    400082: FemaleBaseMesh:RightHandIndex4
+    400084: FemaleBaseMesh:RightHandMiddle1
+    400086: FemaleBaseMesh:RightHandMiddle2
+    400088: FemaleBaseMesh:RightHandMiddle3
+    400090: FemaleBaseMesh:RightHandMiddle4
+    400092: FemaleBaseMesh:RightHandPinky1
+    400094: FemaleBaseMesh:RightHandPinky2
+    400096: FemaleBaseMesh:RightHandPinky3
+    400098: FemaleBaseMesh:RightHandPinky4
+    400100: FemaleBaseMesh:RightHandRing1
+    400102: FemaleBaseMesh:RightHandRing2
+    400104: FemaleBaseMesh:RightHandRing3
+    400106: FemaleBaseMesh:RightHandRing4
+    400108: FemaleBaseMesh:RightHandThumb1
+    400110: FemaleBaseMesh:RightHandThumb2
+    400112: FemaleBaseMesh:RightHandThumb3
+    400114: FemaleBaseMesh:RightHandThumb4
+    400116: FemaleBaseMesh:RightLeg
+    400118: FemaleBaseMesh:RightShoulder
+    400120: FemaleBaseMesh:RightToe_End
+    400122: FemaleBaseMesh:RightToeBase
+    400124: FemaleBaseMesh:RightUpLeg
+    400126: FemaleBaseMesh:Spine
+    400128: FemaleBaseMesh:Spine1
+    400130: FemaleBaseMesh:Spine2
+    400132: //RootNode
+    4300000: female_Lo
+    7400000: mixamo.com
+    9500000: //RootNode
+    13700000: female_Lo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: FemaleBaseMesh:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FemaleBaseMesh:RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: female(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: female_Lo
+      parentName: female(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:Hips
+      parentName: female(Clone)
+      position: {x: -0.00007140839, y: 1.005416, z: -0.0029641474}
+      rotation: {x: 0.5264409, y: -0.4723395, z: 0.5261828, w: -0.47210917}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:Spine
+      parentName: FemaleBaseMesh:Hips
+      position: {x: -0.084155865, y: -2.6645352e-17, z: 1.1553258e-17}
+      rotation: {x: -6.9099347e-18, y: 0.00000011920926, z: 5.796475e-11, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:Spine1
+      parentName: FemaleBaseMesh:Spine
+      position: {x: -0.0981818, y: 0.0000000043092214, z: 7.1372444e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:Spine2
+      parentName: FemaleBaseMesh:Spine1
+      position: {x: -0.11220779, y: 0.0000000043009383, z: 8.28155e-12}
+      rotation: {x: -0.001167895, y: -0.00007422657, z: 0.044695515, w: 0.99899995}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:Neck
+      parentName: FemaleBaseMesh:Spine2
+      position: {x: -0.12551734, y: -1.5099033e-16, z: -6.938894e-20}
+      rotation: {x: 0.0014037772, y: -0.00018001298, z: 0.14575955, w: 0.989319}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:Head
+      parentName: FemaleBaseMesh:Neck
+      position: {x: -0.10313587, y: 0, z: -3.469447e-20}
+      rotation: {x: -2.2534068e-10, y: 0.000000056023115, z: 0.0075605623, w: 0.99997145}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:HeadTop_End
+      parentName: FemaleBaseMesh:Head
+      position: {x: -0.16869783, y: 2.842171e-16, z: 8.577424e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:LeftShoulder
+      parentName: FemaleBaseMesh:Spine2
+      position: {x: -0.0944501, y: 0.011943021, z: -0.04982753}
+      rotation: {x: 0.48690537, y: -0.51355976, z: 0.52176833, w: 0.47637942}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:LeftArm
+      parentName: FemaleBaseMesh:LeftShoulder
+      position: {x: -0.09997862, y: -2.842171e-16, z: 0}
+      rotation: {x: -0.00010875273, y: -0.0014588187, z: 0.0023333537, w: 0.99999624}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:LeftForeArm
+      parentName: FemaleBaseMesh:LeftArm
+      position: {x: -0.2636219, y: -1.7053025e-15, z: -1.1546319e-15}
+      rotation: {x: 0.00057571084, y: 0.013374108, z: -0.033714697, w: 0.99934185}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:LeftHand
+      parentName: FemaleBaseMesh:LeftForeArm
+      position: {x: -0.21811257, y: -2.842171e-16, z: 1.7763568e-17}
+      rotation: {x: -1.3552527e-20, y: 9.258166e-39, z: -6.8313207e-19, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:LeftHandThumb1
+      parentName: FemaleBaseMesh:LeftHand
+      position: {x: -0.030026121, y: -0.013283711, z: 0.029664418}
+      rotation: {x: 0.76066905, y: 0.21593983, z: -0.27177584, w: 0.54853487}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:LeftHandThumb2
+      parentName: FemaleBaseMesh:LeftHandThumb1
+      position: {x: -0.039904334, y: 1.4210854e-16, z: 1.4210854e-16}
+      rotation: {x: -0.15464672, y: 0.03800913, z: -0.00074064714, w: 0.98723817}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:LeftHandThumb3
+      parentName: FemaleBaseMesh:LeftHandThumb2
+      position: {x: -0.026968552, y: 0, z: -5.684342e-16}
+      rotation: {x: -0.073174834, y: -0.036260266, z: 0.013827396, w: 0.99656385}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:LeftHandThumb4
+      parentName: FemaleBaseMesh:LeftHandThumb3
+      position: {x: -0.026447458, y: -8.8817837e-17, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:LeftHandIndex1
+      parentName: FemaleBaseMesh:LeftHand
+      position: {x: -0.09185743, y: 0.001994098, z: 0.027792014}
+      rotation: {x: 0.054323103, y: 0.025363734, z: 0.019697038, w: 0.9980069}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:LeftHandIndex2
+      parentName: FemaleBaseMesh:LeftHandIndex1
+      position: {x: -0.034461174, y: 0, z: 3.5527136e-17}
+      rotation: {x: -0.0011079358, y: -0.021411922, z: 0.002329604, w: 0.9997674}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:LeftHandIndex3
+      parentName: FemaleBaseMesh:LeftHandIndex2
+      position: {x: -0.026465466, y: 0, z: 3.5527136e-17}
+      rotation: {x: 0.00023271592, y: 0.009712859, z: 0.037612963, w: 0.99924517}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:LeftHandIndex4
+      parentName: FemaleBaseMesh:LeftHandIndex3
+      position: {x: -0.021466445, y: -2.842171e-16, z: -3.5527136e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:LeftHandMiddle1
+      parentName: FemaleBaseMesh:LeftHand
+      position: {x: -0.099120826, y: 0.0057722987, z: 0.0057974095}
+      rotation: {x: 0.010344637, y: -0.006630718, z: 0.033871405, w: 0.99935067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:LeftHandMiddle2
+      parentName: FemaleBaseMesh:LeftHandMiddle1
+      position: {x: -0.03967943, y: 2.842171e-16, z: 1.7763568e-17}
+      rotation: {x: -0.0011009208, y: -0.01428693, z: 0.00031821363, w: 0.9998973}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:LeftHandMiddle3
+      parentName: FemaleBaseMesh:LeftHandMiddle2
+      position: {x: -0.023410121, y: 0, z: -3.5527136e-17}
+      rotation: {x: -0.000053938697, y: -0.0033166711, z: -0.0039248606, w: 0.9999868}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:LeftHandMiddle4
+      parentName: FemaleBaseMesh:LeftHandMiddle3
+      position: {x: -0.0213369, y: -5.684342e-16, z: 8.881784e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:LeftHandRing1
+      parentName: FemaleBaseMesh:LeftHand
+      position: {x: -0.09867707, y: 0.003971526, z: -0.017381316}
+      rotation: {x: -0.039015938, y: -0.009660332, z: 0.04456488, w: 0.99819756}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:LeftHandRing2
+      parentName: FemaleBaseMesh:LeftHandRing1
+      position: {x: -0.03804319, y: 0, z: 1.3322676e-17}
+      rotation: {x: 0.00038369143, y: 0.0038443785, z: 0.0003019561, w: 0.99999255}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:LeftHandRing3
+      parentName: FemaleBaseMesh:LeftHandRing2
+      position: {x: -0.021182474, y: 0, z: 1.6653344e-17}
+      rotation: {x: -0.00014981313, y: -0.013189944, z: 0.014794403, w: 0.99980354}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:LeftHandRing4
+      parentName: FemaleBaseMesh:LeftHandRing3
+      position: {x: -0.022048458, y: 0, z: -3.5527136e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:LeftHandPinky1
+      parentName: FemaleBaseMesh:LeftHand
+      position: {x: -0.08874789, y: -0.00029511485, z: -0.036555696}
+      rotation: {x: -0.08091457, y: -0.05007977, z: -0.01645732, w: 0.99532616}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:LeftHandPinky2
+      parentName: FemaleBaseMesh:LeftHandPinky1
+      position: {x: -0.02958608, y: -2.842171e-16, z: -7.105427e-17}
+      rotation: {x: 0.00063071394, y: 0.030936634, z: 0.027525749, w: 0.9991421}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:LeftHandPinky3
+      parentName: FemaleBaseMesh:LeftHandPinky2
+      position: {x: -0.020944268, y: 0, z: 0}
+      rotation: {x: 0.0012423557, y: 0.012234301, z: 0.033020917, w: 0.99937904}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:LeftHandPinky4
+      parentName: FemaleBaseMesh:LeftHandPinky3
+      position: {x: -0.022058014, y: -2.842171e-16, z: -1.7763568e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:RightShoulder
+      parentName: FemaleBaseMesh:Spine2
+      position: {x: -0.09444478, y: 0.011660262, z: 0.050087303}
+      rotation: {x: -0.48552772, y: 0.51210624, z: 0.52324575, w: 0.47772786}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:RightArm
+      parentName: FemaleBaseMesh:RightShoulder
+      position: {x: -0.09997862, y: 2.842171e-16, z: 3.5527136e-17}
+      rotation: {x: 0.00010875275, y: 0.0014588187, z: 0.0023333523, w: 0.99999624}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:RightForeArm
+      parentName: FemaleBaseMesh:RightArm
+      position: {x: -0.2636219, y: -1.7053025e-15, z: 1.0569323e-15}
+      rotation: {x: -0.00057571096, y: -0.013374113, z: -0.0337147, w: 0.99934185}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:RightHand
+      parentName: FemaleBaseMesh:RightForeArm
+      position: {x: -0.21811257, y: 5.684342e-16, z: -5.3290704e-17}
+      rotation: {x: 0, y: -0, z: -1.6178329e-19, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:RightHandThumb1
+      parentName: FemaleBaseMesh:RightHand
+      position: {x: -0.030026121, y: -0.013283711, z: -0.029664418}
+      rotation: {x: -0.76067096, y: -0.21593869, z: -0.2717777, w: 0.54853183}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:RightHandThumb2
+      parentName: FemaleBaseMesh:RightHandThumb1
+      position: {x: -0.039904334, y: 0, z: 1.4210854e-16}
+      rotation: {x: 0.15464787, y: -0.038009163, z: -0.00074152637, w: 0.98723805}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:RightHandThumb3
+      parentName: FemaleBaseMesh:RightHandThumb2
+      position: {x: -0.026968552, y: 7.105427e-17, z: -2.842171e-16}
+      rotation: {x: 0.07317479, y: 0.036262777, z: 0.013828401, w: 0.99656373}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:RightHandThumb4
+      parentName: FemaleBaseMesh:RightHandThumb3
+      position: {x: -0.026447458, y: -5.3290704e-17, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:RightHandIndex1
+      parentName: FemaleBaseMesh:RightHand
+      position: {x: -0.09185743, y: 0.001994098, z: -0.027792014}
+      rotation: {x: -0.054324687, y: -0.025363768, z: 0.019696992, w: 0.9980068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:RightHandIndex2
+      parentName: FemaleBaseMesh:RightHandIndex1
+      position: {x: -0.034461174, y: -2.842171e-16, z: -3.5527136e-17}
+      rotation: {x: 0.0011079814, y: 0.021411598, z: 0.0023325249, w: 0.9997674}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:RightHandIndex3
+      parentName: FemaleBaseMesh:RightHandIndex2
+      position: {x: -0.026465466, y: 0, z: -3.5527136e-17}
+      rotation: {x: -0.00023271143, y: -0.00971298, z: 0.03761296, w: 0.99924517}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:RightHandIndex4
+      parentName: FemaleBaseMesh:RightHandIndex3
+      position: {x: -0.021466445, y: -2.842171e-16, z: 3.5527136e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:RightHandMiddle1
+      parentName: FemaleBaseMesh:RightHand
+      position: {x: -0.099120826, y: 0.0057722987, z: -0.0057974095}
+      rotation: {x: -0.010347184, y: 0.006630634, z: 0.033871423, w: 0.99935067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:RightHandMiddle2
+      parentName: FemaleBaseMesh:RightHandMiddle1
+      position: {x: -0.03967943, y: 0, z: 3.5527136e-17}
+      rotation: {x: 0.0011008926, y: 0.014286971, z: 0.0003164004, w: 0.9998973}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:RightHandMiddle3
+      parentName: FemaleBaseMesh:RightHandMiddle2
+      position: {x: -0.023410121, y: -2.842171e-16, z: -4.4408918e-17}
+      rotation: {x: 0.000053940585, y: 0.0033166888, z: -0.003924858, w: 0.9999868}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:RightHandMiddle4
+      parentName: FemaleBaseMesh:RightHandMiddle3
+      position: {x: -0.0213369, y: 0, z: 4.4408918e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:RightHandRing1
+      parentName: FemaleBaseMesh:RightHand
+      position: {x: -0.09867707, y: 0.003971526, z: 0.017381316}
+      rotation: {x: 0.039013233, y: 0.009660215, z: 0.0445649, w: 0.99819773}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:RightHandRing2
+      parentName: FemaleBaseMesh:RightHandRing1
+      position: {x: -0.03804319, y: 0, z: -2.6645352e-17}
+      rotation: {x: -0.00038370708, y: -0.003844528, z: 0.0002999408, w: 0.99999255}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:RightHandRing3
+      parentName: FemaleBaseMesh:RightHandRing2
+      position: {x: -0.021182474, y: 0, z: 3.330669e-18}
+      rotation: {x: 0.000149817, y: 0.013189862, z: 0.014794463, w: 0.99980354}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:RightHandRing4
+      parentName: FemaleBaseMesh:RightHandRing3
+      position: {x: -0.022048458, y: 0, z: 8.881784e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:RightHandPinky1
+      parentName: FemaleBaseMesh:RightHand
+      position: {x: -0.08874789, y: -0.00029511485, z: 0.036555696}
+      rotation: {x: 0.08091298, y: 0.050078806, z: -0.016457047, w: 0.99532634}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:RightHandPinky2
+      parentName: FemaleBaseMesh:RightHandPinky1
+      position: {x: -0.02958608, y: 2.842171e-16, z: 3.5527136e-17}
+      rotation: {x: -0.0006307438, y: -0.030935086, z: 0.027524399, w: 0.9991422}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:RightHandPinky3
+      parentName: FemaleBaseMesh:RightHandPinky2
+      position: {x: -0.020944268, y: -5.684342e-16, z: -3.5527136e-17}
+      rotation: {x: -0.0012423618, y: -0.012234419, z: 0.033020858, w: 0.99937904}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:RightHandPinky4
+      parentName: FemaleBaseMesh:RightHandPinky3
+      position: {x: -0.022058014, y: 1.1368684e-15, z: -1.7763568e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:LeftUpLeg
+      parentName: FemaleBaseMesh:Hips
+      position: {x: 0.057569366, y: 0.0043526837, z: -0.0968313}
+      rotation: {x: -0.0025787912, y: -0.007707301, z: 0.99815047, w: -0.06024628}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:LeftLeg
+      parentName: FemaleBaseMesh:LeftUpLeg
+      position: {x: -0.42187023, y: 1.7319479e-16, z: -5.3290704e-17}
+      rotation: {x: -0.012859344, y: -0.006581654, z: 0.017507385, w: 0.9997424}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:LeftFoot
+      parentName: FemaleBaseMesh:LeftLeg
+      position: {x: -0.43879858, y: 1.358913e-15, z: -2.0072832e-15}
+      rotation: {x: 0.04219259, y: 0.025808396, z: -0.4922005, w: 0.8690756}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:LeftToeBase
+      parentName: FemaleBaseMesh:LeftFoot
+      position: {x: -0.15791623, y: 1.7763568e-17, z: 1.7763568e-17}
+      rotation: {x: -0.001942589, y: -0.0064165425, z: -0.2897548, w: 0.95707744}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:LeftToe_End
+      parentName: FemaleBaseMesh:LeftToeBase
+      position: {x: -0.060431454, y: -3.0755015e-17, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:RightUpLeg
+      parentName: FemaleBaseMesh:Hips
+      position: {x: 0.05757962, y: 0.0042582736, z: 0.096981145}
+      rotation: {x: 0.00275117, y: 0.0072309375, z: 0.9981546, w: -0.060229924}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:RightLeg
+      parentName: FemaleBaseMesh:RightUpLeg
+      position: {x: -0.42187023, y: 5.7731595e-17, z: 0}
+      rotation: {x: 0.012857662, y: 0.0065826657, z: 0.017546248, w: 0.99974173}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:RightFoot
+      parentName: FemaleBaseMesh:RightLeg
+      position: {x: -0.43879858, y: 1.2434498e-15, z: 1.847411e-15}
+      rotation: {x: -0.0422636, y: -0.025677195, z: -0.4922167, w: 0.8690669}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:RightToeBase
+      parentName: FemaleBaseMesh:RightFoot
+      position: {x: -0.15791623, y: 8.8817837e-17, z: -5.3290704e-17}
+      rotation: {x: 0.0019425672, y: 0.0064165536, z: -0.28975478, w: 0.9570775}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FemaleBaseMesh:RightToe_End
+      parentName: FemaleBaseMesh:RightToeBase
+      position: {x: -0.060431454, y: 4.9221903e-18, z: 1.7763568e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
